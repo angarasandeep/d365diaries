@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+title: "D365 FO Customization: Creating Tables"
 categories: misc
 ---
 
