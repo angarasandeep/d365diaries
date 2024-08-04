@@ -1,14 +1,14 @@
-title: Your awesome title
+title: D365 Diaries
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Sandeep Angara
+  email: sandeepangara.connect@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+This blog highlights the technical aspects of implementing and customizing Power Platform and D365 Finance & Operations 
+which serves as a guide when required for makers, developers and business users.
+
 
 # Build settings
 
